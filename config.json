@@ -1,0 +1,13 @@
+{
+    "fields": [
+        {
+            "name": "Username",
+            "type": "string"
+        },
+        {
+            "name": "ID",
+            "type": "int"
+        }
+    ],
+    "expiresAfter": 5
+}
