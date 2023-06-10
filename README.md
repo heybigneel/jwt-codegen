@@ -1,4 +1,5 @@
-JWT Code Generator
+## JWT Code Generator
+
 This project generates JWT (JSON Web Token) code from a JSON config file.
 
 Usage
