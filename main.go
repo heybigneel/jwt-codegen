@@ -9,7 +9,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/neel229/jwt-codegen/codegen"
+	"github.com/stuckinforloop/jwt-codegen/codegen"
 )
 
 func main() {

@@ -17,7 +17,7 @@ Run `go run main.go`. This will generate a jwt.go file with a JWT struct based o
 Use the generated jwt.go file in your code to create JWT tokens with your custom claims. For example:
 
 ```go
-import "github.com/neel229/jwt-codegen/jwt"
+import "github.com/stuckinforloop/jwt-codegen/jwt"
 
 func main() {
   // Create token

@@ -1,4 +1,4 @@
-module github.com/neel229/jwt-codegen
+module github.com/stuckinforloop/jwt-codegen
 
 go 1.18
 
